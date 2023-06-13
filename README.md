@@ -12,4 +12,4 @@
 </div>
  
  <br>
- ![Snake animation](https://github.com/guix7/guix7/blob/output/github-contribution-grid-snake.svg)
+ 
