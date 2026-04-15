@@ -30,10 +30,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guix7&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guix7&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guix7&show_icons=true&theme=tokyonight" />
 
 ---
 
