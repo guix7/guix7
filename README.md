@@ -40,7 +40,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=guix7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,8 +55,8 @@
 
 ## 📫 Contato
 
-📧 Email: guideoliveira2197@gmail.com
-💼 LinkedIn: (https://www.linkedin.com/in/guilherme-oliveira-172307226/)
+📧 Email: seuemail@email.com  
+💼 LinkedIn: seu-linkedin  
 
 ---
 
