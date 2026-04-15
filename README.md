@@ -32,7 +32,7 @@
 <div align="center">
 
 <a href="https://github.com/guix7/Projeto-Loja-Online">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=guix7&repo=Projeto-Loja-Online&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=guix7&repo=Projeto-Loja-Online&theme=tokyonight" />
 </a>
 
 </div>
@@ -40,8 +40,10 @@
 ---
 
 ## 📊 Estatísticas
-
+<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guix7&show_icons=true&theme=tokyonight" />
+  
+</p>
 
 ---
 
