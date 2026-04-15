@@ -27,6 +27,17 @@
 </p>
 
 ---
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/guix7/Projeto-Loja-Online">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=guix7&repo=Projeto-Loja-Online&theme=tokyonight" />
+</a>
+
+</div>
+
+---
 
 ## 📊 Estatísticas
 
