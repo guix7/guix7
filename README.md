@@ -65,8 +65,8 @@
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: seu-linkedin  
+📧 Email: guideoliveira2197@gmail.com
+💼 LinkedIn: https://www.linkedin.com/notifications/?filter=all
 
 ---
 
